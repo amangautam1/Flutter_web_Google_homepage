@@ -3,6 +3,8 @@ It is just an dummy Google home page UI designed in Flutter web.
 
 <br>
 Test it out at <a href="https://google.codemagic.app/#/">Codemagic</a> 
+
+
 ## Screenshot
 <img src="https://github.com/amangautam1/Flutter_web_Google_homepage/blob/master/google%20home%20page.PNG?raw=true">
 
